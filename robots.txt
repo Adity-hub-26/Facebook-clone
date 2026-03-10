@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourwebsite.netlify.app/sitemap.xml
+Sitemap: https://lambent-selkie-238330.netlify.app/sitemap.xml
